@@ -26,3 +26,45 @@
 }
 
 /* start second section   */
+.main-container{
+    margin-top: 70px;
+    align-items: center;
+    text-align: center;
+}
+.text-container h1{
+    font-size: 40px;
+    color: rgb(229, 92, 42);
+}
+.text-container h3{
+    color: orangered;
+}
+.text-container h2{
+    font-size: 30px;
+}
+
+/* start third section  */
+.second-banner-container{
+    margin-top: 50px;
+
+}
+.s-banner-card{
+    position: relative;
+}
+
+.s-banner-card img{
+    min-width: 100px;
+    height: auto;
+}
+
+.second-banner-text-container{
+    margin-left: 50px;
+    position: absolute;
+    top: 20%;
+    color: white;
+}
+.second-banner-text-container h2{
+    font-size: 50px;
+}
+.second-banner-text-container p{
+    font-size: 15px;
+}
