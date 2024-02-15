@@ -1,0 +1,28 @@
+/* first section  */
+.banner-card{
+    position: relative;
+}
+
+.banner-card img{
+    min-width: 100px;
+    height: auto;
+}
+
+.banner-text{
+    text-align: center;
+    margin-left: 450px;
+    position: absolute;
+    top: 15%;
+    color: wheat;
+    padding: 20px;
+}
+
+.text-up{
+    font-size: 30px;
+}
+.text-middle{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* start second section   */
