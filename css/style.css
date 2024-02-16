@@ -1,14 +1,14 @@
 /* first section  */
-.banner-card{
+.banner-card {
     position: relative;
 }
 
-.banner-card img{
+.banner-card img {
     min-width: 100px;
     height: auto;
 }
 
-.banner-text{
+.banner-text {
     text-align: center;
     margin-left: 450px;
     position: absolute;
@@ -17,76 +17,87 @@
     padding: 20px;
 }
 
-.text-up{
+.text-up {
     font-size: 30px;
 }
-.text-middle{
+
+.text-middle {
     font-size: 40px;
     font-weight: bold;
 }
 
 /* start second section   */
-.main-container{
+.main-container {
     margin-top: 70px;
     align-items: center;
     text-align: center;
 }
-.text-container h1{
+
+.text-container h1 {
     font-size: 40px;
     color: rgb(229, 92, 42);
 }
-.text-container h3{
+
+.text-container h3 {
     color: orangered;
 }
-.text-container h2{
+
+.text-container h2 {
     font-size: 30px;
 }
 
 /* start third section  */
-.second-banner-container{
+.second-banner-container {
     margin-top: 50px;
 
 }
-.s-banner-card{
+
+.s-banner-card {
     position: relative;
 }
 
-.s-banner-card img{
+.s-banner-card img {
     min-width: 100px;
     height: auto;
 }
 
-.second-banner-text-container{
+.second-banner-text-container {
     margin-left: 50px;
     position: absolute;
     top: 20%;
     color: white;
 }
-.second-banner-text-container h2{
+
+.second-banner-text-container h2 {
     font-size: 50px;
 }
-.second-banner-text-container p{
+
+.second-banner-text-container p {
     font-size: 15px;
 }
 
 /* start fourth section  */
-.fourth-container{
+.fourth-container {
     margin-top: 30px;
     background-color: bisque;
 }
-.box-container{
+
+.box-container {
     padding: 30px;
     align-items: center;
     text-align: center;
 
 }
-.box-container h3{
+
+.box-container h3 {
     font-size: 20px;
 }
-.box-container span{
+
+.box-container span {
     color: orangered;
 }
-.box-container button{
+
+.box-container button {
     padding: 5px;
     background-color: orangered;
     color: white;
@@ -95,36 +106,137 @@
 }
 
 /* start fifth section  */
-.fifth-main-container{
+.fifth-main-container {
     margin-top: 30px;
     display: flex;
     justify-content: space-evenly;
 }
+
 /* .top-container{
     
 } */
-.top-box h2{
+.top-box h2 {
     font-size: 15px;
     color: orangered;
 }
-.top-box h1{
+
+.top-box h1 {
     font-size: 30px;
     font-weight: bold;
 }
-.top-container p{
+
+.top-container p {
     font-size: 1px;
 }
-.image-box img{
+
+.image-box img {
     padding: 5px;
     width: 200px;
     border-radius: 20px;
     border: 5px solid orangered;
 }
 
-.bottom-box h1{
+.bottom-box h1 {
     font-size: 40px;
     color: orangered;
 }
-.bottom-box img{
+
+.bottom-box img {
     width: 50px;
+}
+
+/* start eight section  */
+.eight-section-container{
+    min-width: 100px;
+    height: 250px;
+    margin-top: 30px;
+    background-color: bisque;
+    text-align: center;
+    align-items: center;
+}
+
+.first-part {
+
+}
+
+.first-part img {
+    width: 100px;
+}
+
+.first-part h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.first-part p {
+    font-size: 15px;
+}
+
+/* footer section started  */
+.footer-container {
+    margin-top: 30px;
+    background-color: black;
+    padding: 50px;
+
+}
+
+.first-part {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left-side p {
+    color: white;
+}
+
+.right-side {}
+
+.up {
+    display: flex;
+}
+
+.up p {
+    color: white;
+}
+
+.up img {
+    width: 15px;
+    height: 10px;
+}
+
+.down img {
+    width: 15px;
+    height: 10px;
+}
+
+.down p {
+    color: white;
+}
+
+.down {
+    display: flex;
+}
+
+.second-part {
+    margin-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.icon-container {
+    display: flex;
+    gap: 10px;
+}
+
+.icon-container img {
+    width: 40px;
+}
+
+.third-part {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.third-part p {
+    color: white;
 }
